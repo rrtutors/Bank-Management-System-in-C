@@ -55,22 +55,22 @@ To run this program you have to put the correct password which is <b> "codewithc
 
 Startup
 <br>
-![Initial Stage](https://github.com/ashutoshsinghdengri/BMS/blob/main/images/BMS1.png)
+![Initial Stage](https://github.com/rrtutors/Bank-Management-System-in-C/blob/main/images/BMS1.png)
 <br>
 
 Login
 <br>
-![Login](https://github.com/ashutoshsinghdengri/BMS/blob/main/images/BMS2.png)
+![Login](https://github.com/rrtutors/Bank-Management-System-in-C/blob/main/images/BMS2.png)
 <br>
 
 Access Granted
 <br>
-![In System](https://github.com/ashutoshsinghdengri/BMS/blob/main/images/BMS3.png)
+![In System](https://github.com/rrtutors/Bank-Management-System-in-C/blob/main/images/BMS3.png)
 <br>
 
 Menu
 <br>
-![Menu](https://github.com/ashutoshsinghdengri/BMS/blob/main/images/BMS4.png)
+![Menu](https://github.com/rrtutors/Bank-Management-System-in-C/blob/main/images/BMS4.png)
 <br>
 
 ## Thanks
