@@ -6,7 +6,7 @@ A bank management system(BMS) is a software that bank employees can use, this pr
 It is used by Banks to manage the DataBase using computerized system.
 To run this program you have to put the correct password which is <b> "codewithc" </b>.
 
-### Difficulties in LMS
+### Difficulties in BMS
  1. To check if bank account is already been created
  2. Manual system
  3. Bank has to perform small tasks every single time
